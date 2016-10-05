@@ -1,0 +1,24 @@
+Vagrantfile
+vagrantconfig.yaml
+Cheffile
+Cheffile.lock
+
+.vagrant/
+.bundle/
+LatestWorkingConfig/
+tmp/
+CourseDetails/
+cookbooks/
+
+# Ignore Bower Components & Node Modules
+*/bower_components
+*/node_modules
+
+*/**/bower_components
+*/**/node_modules
+
+# Ignore text files
+*/*.txt
+
+# Other random files to ignore
+*/.tmp/
