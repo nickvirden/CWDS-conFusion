@@ -21,4 +21,4 @@ cookbooks/
 */*.txt
 
 # Other random files to ignore
-*/**/.tmp/
+**/**/.tmp
